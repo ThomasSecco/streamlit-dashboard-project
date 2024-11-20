@@ -16,7 +16,7 @@ This project uses **Streamlit** to create an interactive dashboard for visualizi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/streamlit_superstore_dashboard.git
+   git clone https://github.com/ThomasSecco/streamlit_superstore_dashboard.git
    cd streamlit_superstore_dashboard
     ```
 
@@ -35,7 +35,7 @@ streamlit run app/dashboard.py
 ---
 
 ## 📂 Dataset
-The dataset (global_superstore.csv) contains sales data with the following columns:
+The dataset (global_superstore.csv , downloadable at : https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset) contains sales data with the following columns:
 
 - 🗓️ Order Date: Transaction date
 - 🛒 Category & Sub-Category: Product types
